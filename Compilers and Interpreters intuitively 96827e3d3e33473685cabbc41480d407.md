@@ -11,7 +11,7 @@ A compiler is like a mapper that maps an input string (programming language) int
 - C++ → Assembly.
 - Java → Bytecode.
     
-    ![shows-the-use-of-a-compiler-emphasizing-its-internal-phases-The-Program-Developer-is.png](Compilers%20and%20Interpreters%20intuitively%2096827e3d3e33473685cabbc41480d407/shows-the-use-of-a-compiler-emphasizing-its-internal-phases-The-Program-Developer-is.png)
+    ![shows-the-use-of-a-compiler-emphasizing-its-internal-phases-The-Program-Developer-is.png](images/shows-the-use-of-a-compiler-emphasizing-its-internal-phases-The-Program-Developer-is.png)
     
 
 Now that we know what a compiler is and what it does, how about we dive deep into how it works and see in detail what happens from the inside?
@@ -36,7 +36,7 @@ JavaScript is considered an interpreted language but modern browsers now use a t
 
 # Just-in-time Compilation
 
-![js-engine-pipeline.png](Compilers%20and%20Interpreters%20intuitively%2096827e3d3e33473685cabbc41480d407/js-engine-pipeline.png)
+![js-engine-pipeline.png](images/js-engine-pipeline.png)
 
 JIT or Just in time compilation is a technique that came out to help run JS faster by compiling certain parts of your code and then executing that compiled part.
 
